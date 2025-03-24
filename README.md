@@ -1,4 +1,4 @@
-# Hello 👋, I'm [Foreda Jannat Eva]
+# Hello 👋, I'm Foreda Jannat Eva
 
 I’m currently a CSE student.
 
