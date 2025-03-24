@@ -15,6 +15,8 @@ I’m currently a CSE student.
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Eva_004)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Eva004/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/Eva_004)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/eva_004)
+
 
 ## 🛠️ Languages and Tools:
 
