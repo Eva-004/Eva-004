@@ -16,3 +16,11 @@ I’m currently a CSE student.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Eva004/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/Eva_004)
 
+## 🛠️ Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+
+
+
