@@ -1,6 +1,8 @@
 # Hello 👋, I'm Foreda Jannat Eva
 
 I’m currently a CSE student.
+![Home Code]![profile](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
+
 
 - 🌱 I’m currently learning Java and DSA.
 
