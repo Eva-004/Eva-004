@@ -19,10 +19,10 @@ I’m currently a CSE student.
 
 
 ## 🛠️ Languages and Tools:
+<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eva-004&show_icons=true&theme=radical)
 
