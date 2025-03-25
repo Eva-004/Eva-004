@@ -22,8 +22,7 @@ I’m currently a CSE student.
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eva-004&show_icons=true&theme=radical)
+[![GitHub stars](https://img.shields.io/github/stars/Eva-004/Eva-004?style=social)](https://github.com/Eva-004/Eva-004/stargazers)
 
 
 
