@@ -3,9 +3,11 @@
 I’m currently a CSE student.
 ![Home code](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
 
+# Calculator Project
+This is my calculator project.
+👉 Live demo: [mycalculator04.netlify.app](https://mycalculator04.netlify.app)
 
-- 🌱 I’m currently learning Java and DSA.
-
+-Working on MatroMitra — a Smart City Guide project under development.
 - 💬 Ask me about Java, C++ and Problem-Solving
 - 📧 How to reach me: fjeva944@gmail.com
 
