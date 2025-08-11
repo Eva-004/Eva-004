@@ -4,7 +4,7 @@ I’m currently a CSE student.
 ![Home code](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
 
 This is my calculator project.
-👉  mycalculator04.netlify.app
+👉  https://mycalculator04.netlify.app/
 
 -Working on MatroMitra — a Smart City Guide project under development.
 - 💬 Ask me about Java, C++ and Problem-Solving
