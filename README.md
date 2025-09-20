@@ -7,8 +7,7 @@ This is my calculator project.
 👉  https://mycalculator04.netlify.app/
 
 -Working on MatroMitra — a Smart City Guide project under development.
-- 💬 Ask me about Java, C++ and Problem-Solving
-- 📧 How to reach me: fjeva944@gmail.com
+- 📧 How to reach me: foredajannateva@gmail.com
 
 ## 📞 Connect with me:
 
