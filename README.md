@@ -5,7 +5,8 @@ I’m currently a CSE student.
 
 This is my calculator project.
 👉  https://mycalculator04.netlify.app/
-
+Here my profile card
+👉  https://eva-004.github.io/profile-card/
 -Working on MatroMitra — a Smart City Guide project under development.
 - 📧 How to reach me: foredajannateva@gmail.com
 
