@@ -9,6 +9,8 @@ This is my calculator project.
 Here my profile card
 👉   https://eva-004.github.io/profile-card/
 
+ 👉 https://eva-004.github.io/Dashboard-stats-card/
+ 
 -Working on MatroMitra — a Smart City Guide project under development.
 - 📧 How to reach me: foredajannateva@gmail.com
 
