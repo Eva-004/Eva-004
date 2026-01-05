@@ -42,7 +42,6 @@ Here my profile card
 
 ### 📊 GitHub Stats
 <p>
-  ## 📊 GitHub Stats
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
 </p>
 
@@ -50,5 +49,5 @@ Here my profile card
 
 ### 🏆 GitHub Trophies
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6)
 </p>
