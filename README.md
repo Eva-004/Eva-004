@@ -43,8 +43,6 @@ Here my profile card
 ### 📊 GitHub Stats
 <p>
   ## 📊 GitHub Stats
-
-![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eva-004&show_icons=true&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
 </p>
 
