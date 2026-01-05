@@ -3,9 +3,6 @@
 I’m currently a CSE student.
 ![Home code](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eva-004)](https://git.io/streak-stats)
-
-
 This is my calculator project.
 👉  https://mycalculator04.netlify.app/
 
