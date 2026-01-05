@@ -3,6 +3,10 @@
 I’m currently a CSE student.
 ![Home code](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eva-004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 This is my calculator project.
 👉  https://mycalculator04.netlify.app/
 
@@ -36,3 +40,15 @@ Here my profile card
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eva-004&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6"/>
+</p>
