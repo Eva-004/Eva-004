@@ -49,5 +49,5 @@ Here my profile card
 
 ### 🏆 GitHub Trophies
 <p>
-![trophy](https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6)
+  <img src="https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6"/>
 </p>
