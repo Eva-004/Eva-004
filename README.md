@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="[YOUR_PROFILE_IMAGE_URL](https://avatars.githubusercontent.com/u/204645756?s=400&u=c8c644e19df22ae5e44d2e07dee39bdf20739a59&v=4)" width="160" style="border-radius:50%; margin-top:-80px; border:4px solid white;" />
+  <img src="https://avatars.githubusercontent.com/u/204645756?s=400&u=c8c644e19df22ae5e44d2e07dee39bdf20739a59&v=4" width="160" style="border-radius:50%; margin-top:-80px; border:4px solid white;" />
 </p>
 # Hello 👋, I'm Foreda Jannat Eva
 
