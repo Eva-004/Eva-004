@@ -1,5 +1,27 @@
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="30%" align="center">
+        <img src="https://i.ibb.co/YBYpP3xH/My-Image.jpg" width="250px" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      </td>
+      <td width="50%" align="left" valign="middle">
+        <h1 align="left">Foreda Jannat Eva</h1>
+        <p align="left">
+          <strong>Frontend Developer | Aspiring Software Engineer</strong>
+        </p>
+        <p align="left">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=50&section=header&text=Building%20Digital%20Experiences&fontSize=20&animation=fadeIn" />
+        </p>
+      </td>
+      <td width="20%" align="right">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vscode,git&perline=2" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Foreda%20Jannat%20Eva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Frontend%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 # Hello 👋, I'm Foreda Jannat Eva
