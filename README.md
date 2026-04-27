@@ -17,9 +17,9 @@
 ---
 ## 🌱 Current Activities
 
-- Exploring :contentReference[oaicite:0]{index=0}  
+- Exploring : Next.js 
 - Building real-world frontend projects  
-- Practicing problem solving on :contentReference[oaicite:1]{index=1} and :contentReference[oaicite:2]{index=2}  
+- Practicing problem solving on : codeforces and leetcode 
 
 ---
 
