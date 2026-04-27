@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Foreda%20Jannat%20Eva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Frontend%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18"/>
 </p>
+
+<p align="left">
+  <img src="[YOUR_PROFILE_IMAGE_URL](https://avatars.githubusercontent.com/u/204645756?s=400&u=c8c644e19df22ae5e44d2e07dee39bdf20739a59&v=4)" width="160" style="border-radius:50%; margin-top:-80px; border:4px solid white;" />
+</p>
 # Hello 👋, I'm Foreda Jannat Eva
 
 ### CSE Student | Frontend Developer | Aspiring Software Engineer
