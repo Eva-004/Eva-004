@@ -1,22 +1,28 @@
-# Hello 👋, I'm Foreda Jannat Eva
-
-I’m currently a CSE student.
-![Home code](https://github.com/user-attachments/assets/8cc10e96-4de6-4941-b96c-1a367181e75e)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eva-004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Foreda%20Jannat%20Eva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Frontend%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18"/>
 </p>
 
-This is my calculator project.
-👉  https://mycalculator04.netlify.app/
+# Hello 👋, I'm Foreda Jannat Eva
 
-Here my profile card
-👉   https://eva-004.github.io/profile-card/
+### CSE Student | Frontend Developer | Aspiring Software Engineer
 
- 👉 https://eva-004.github.io/Dashboard-stats-card/
- 
--Working on MatroMitra — a Smart City Guide project under development.
-- 📧 How to reach me: foredajannateva@gmail.com
+---
+
+## 💫 About Me
+
+- 🎓 I'm a CSE student passionate about technology and problem solving  
+- 💻 Currently learning modern web development  
+- 🧠 I practice competitive programming regularly  
+- 🚀 Goal: Become a skilled software engineer
+
+---
+## 🌱 Current Activities
+
+- Exploring :contentReference[oaicite:0]{index=0}  
+- Building real-world frontend projects  
+- Practicing problem solving on :contentReference[oaicite:1]{index=1} and :contentReference[oaicite:2]{index=2}  
+
+---
 
 ## 📞 Connect with me:
 
@@ -27,15 +33,25 @@ Here my profile card
 [![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/eva_004)
 
 
-## 🛠️ Languages and Tools:
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- 🛠️ Tools -->
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -45,9 +61,3 @@ Here my profile card
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
- <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Eva-004&theme=onedark&row=1&column=6" />
-</p>
