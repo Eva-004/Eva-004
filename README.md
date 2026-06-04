@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Eva-004&theme=tokyonight" height="160"/>
 </p>
 
 # Hello 👋, I'm Foreda Jannat Eva
