@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Foreda%20Jannat%20Eva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Frontend%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18"/>
 </p>
 
-### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-004&theme=tokyonight" height="160"/>
 </p>
