@@ -20,9 +20,10 @@
 ---
 ## 🌱 Current Activities
 
-- Exploring : Next.js 
-- Building real-world frontend projects  
-- Practicing problem solving on : codeforces and leetcode 
+- Deepening my knowledge of the MERN Stack
+- Building scalable and user-friendly web applications
+- Solving algorithmic problems on Codeforces and LeetCode
+- Continuously improving my data structures and algorithms skills
 
 ---
 
