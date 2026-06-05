@@ -6,7 +6,7 @@
 
 # Hello 👋, I'm Foreda Jannat Eva
 
-### CSE Student | Frontend Developer | Aspiring Software Engineer
+### CSE Student | Full Stack Developer | Aspiring Software Engineer
 
 ---
 
