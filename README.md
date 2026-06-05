@@ -58,6 +58,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Better Auth](https://img.shields.io/badge/-Better%20Auth-000000?style=for-the-badge&logoColor=white)
 
 
