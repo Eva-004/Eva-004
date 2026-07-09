@@ -1,4 +1,8 @@
-<img width="1536" height="500" alt="ChatGPT Image Jul 9, 2026, 02_14_44 PM" src="https://github.com/user-attachments/assets/c2c38361-fc6c-45b1-9422-480143f57382" />
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/c2c38361-fc6c-45b1-9422-480143f57382" width="100%" alt="Banner"/>
+
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eva-004&theme=tokyonight)](https://git.io/streak-stats)
 
