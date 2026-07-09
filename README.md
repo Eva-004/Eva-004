@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Foreda%20Jannat%20Eva&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Frontend%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=18"/>
-</p>
+<img width="1536" height="1024" alt="ChatGPT Image Jul 9, 2026, 02_14_44 PM" src="https://github.com/user-attachments/assets/c2c38361-fc6c-45b1-9422-480143f57382" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Eva-004&theme=tokyonight)](https://git.io/streak-stats)
 
 # Hello 👋, I'm Foreda Jannat Eva
 
-### CSE Student | Full Stack Developer | Aspiring Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=950&lines=Competitive+Programmer;Full+Stack+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -20,8 +20,9 @@
 ---
 ## 🌱 Current Activities
 
+- Exploring TypeScript
 - Deepening my knowledge of the MERN Stack
-- Building scalable and user-friendly web applications
+- Building user-friendly web applications
 - Solving algorithmic problems on Codeforces and LeetCode
 - Continuously improving my data structures and algorithms skills
 
