@@ -1,7 +1,6 @@
 <img width="1508" height="640" alt="ChatGPT Image Jul 9, 2026, 02_28_35 PM" src="https://github.com/user-attachments/assets/78aaaee0-8521-4576-891e-7ac558252243" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eva-004&theme=tokyonight)](https://git.io/streak-stats)
 
 # Hello 👋, I'm Foreda Jannat Eva
 
@@ -66,4 +65,5 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Better Auth](https://img.shields.io/badge/-Better%20Auth-000000?style=for-the-badge&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eva-004&theme=tokyonight)](https://git.io/streak-stats)
 
